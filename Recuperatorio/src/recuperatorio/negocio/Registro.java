@@ -26,7 +26,7 @@ public class Registro {
     
     public void listarAulas(String dia){
     
-        for(int i=0;i<pos;i++){
+        for(int i=0;i<=pos;i++){
         
             if(lista[i].getDia().equals(dia)){
             
