@@ -5,10 +5,7 @@
  */
 package recuperatorio;
 
-/**
- *
- * @author Usuario
- */
+
 public class Recuperatorio {
 
     /**
